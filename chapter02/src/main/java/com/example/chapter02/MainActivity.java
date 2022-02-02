@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // 获取名叫tv_hello的TextView控件，注意添加导包语句import android.widget.TextView;
         TextView tv_hello = findViewById(R.id.tv_hello);
-        // 设置TextView控件的文字内容
-        tv_hello.setText("你好，世界");
+        // 设置TextView控件的文字大小
+        tv_hello.setTextSize(40);
     }
 
     @Override
