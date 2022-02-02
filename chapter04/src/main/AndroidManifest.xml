@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -38,10 +39,10 @@
         <activity android:name=".ReadStringActivity" />
         <activity android:name=".MetaDataActivity">
 
-            <!-- <meta-data android:name="weather" android:value="晴天" /> -->
+            <!-- 描述 Activity 的元数据 -->
             <meta-data
                 android:name="weather"
-                android:value="@string/weather_str" />
+                android:value="阴天（meta）" />
         </activity>
     </application>
 

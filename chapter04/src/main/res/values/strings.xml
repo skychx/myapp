@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">chapter04</string>
+    <string name="app_name">4.Activity</string>
     <string name="weather_str">晴天</string>
     <string name="first_short">first</string>
     <string name="first_long">启停活动</string>
