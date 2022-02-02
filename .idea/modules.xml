@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="myapp/app" />
-      <module fileurl="file://$PROJECT_DIR$/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/chapter02/chapter02.iml" group="myapp/chapter02" />
-      <module fileurl="file://$PROJECT_DIR$/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/chapter03/chapter03.iml" group="myapp/chapter03" />
-      <module fileurl="file://$PROJECT_DIR$/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/chapter04/chapter04.iml" group="myapp/chapter04" />
-      <module fileurl="file://$PROJECT_DIR$/chapter05/chapter05.iml" filepath="$PROJECT_DIR$/chapter05/chapter05.iml" group="myapp/chapter05" />
-      <module fileurl="file://$PROJECT_DIR$/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/chapter06/chapter06.iml" group="myapp/chapter06" />
-      <module fileurl="file://$PROJECT_DIR$/chapter07/chapter07.iml" filepath="$PROJECT_DIR$/chapter07/chapter07.iml" group="myapp/chapter07" />
-      <module fileurl="file://$PROJECT_DIR$/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/chapter08/chapter08.iml" group="myapp/chapter08" />
-      <module fileurl="file://$PROJECT_DIR$/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/chapter09/chapter09.iml" group="myapp/chapter09" />
-      <module fileurl="file://$PROJECT_DIR$/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/chapter10/chapter10.iml" group="myapp/chapter10" />
-      <module fileurl="file://$PROJECT_DIR$/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/chapter11/chapter11.iml" group="myapp/chapter11" />
-      <module fileurl="file://$PROJECT_DIR$/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/chapter12/chapter12.iml" group="myapp/chapter12" />
-      <module fileurl="file://$PROJECT_DIR$/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/chapter13/chapter13.iml" group="myapp/chapter13" />
-      <module fileurl="file://$PROJECT_DIR$/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/chapter14/chapter14.iml" group="myapp/chapter14" />
-      <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/chapter15/chapter15.iml" group="myapp/chapter15" />
-      <module fileurl="file://$PROJECT_DIR$/myapp.iml" filepath="$PROJECT_DIR$/myapp.iml" group="myapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter02/myapp.chapter02.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter02/myapp.chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter03/myapp.chapter03.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter03/myapp.chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter04/myapp.chapter04.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter04/myapp.chapter04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter05/myapp.chapter05.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter05/myapp.chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter06/myapp.chapter06.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter06/myapp.chapter06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter07/myapp.chapter07.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter07/myapp.chapter07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter08/myapp.chapter08.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter08/myapp.chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter09/myapp.chapter09.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter09/myapp.chapter09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter10/myapp.chapter10.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter10/myapp.chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter11/myapp.chapter11.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter11/myapp.chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter12/myapp.chapter12.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter12/myapp.chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter13/myapp.chapter13.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter13/myapp.chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter14/myapp.chapter14.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter14/myapp.chapter14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter15/myapp.chapter15.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter15/myapp.chapter15.iml" />
     </modules>
   </component>
 </project>
