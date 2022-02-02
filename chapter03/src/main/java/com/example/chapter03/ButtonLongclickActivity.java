@@ -18,10 +18,12 @@ public class ButtonLongclickActivity extends AppCompatActivity implements View.O
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_button_longclick);
         tv_result = findViewById(R.id.tv_result); // 获取名叫tv_result的文本视图
+
         // 从布局文件中获取名叫btn_click_single的按钮控件
         Button btn_longclick_single = findViewById(R.id.btn_longclick_single);
         // 设置长按监听器，一旦用户长按按钮，就触发监听器的onLongClick方法
         btn_longclick_single.setOnLongClickListener(new MyOnLongClickListener());
+
         // 从布局文件中获取名叫btn_click_public的按钮控件
         Button btn_longclick_public = findViewById(R.id.btn_longclick_public);
         // 设置长按监听器，一旦用户长按按钮，就触发监听器的onLongClick方法

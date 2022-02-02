@@ -5,10 +5,26 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.169" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.14583333333333334" />
+        <entry key="chapter03/src/main/res/layout/activity_button_click.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_button_enable.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_button_style.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_calculator.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_grid_layout.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_image_button.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_linear_layout.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_linear_weight.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_relative_layout.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_scroll_view.xml" value="0.23278985507246377" />
+        <entry key="chapter03/src/main/res/layout/activity_text_color.xml" value="0.18885869565217392" />
+        <entry key="chapter03/src/main/res/layout/activity_text_size.xml" value="0.18885869565217392" />
+        <entry key="chapter03/src/main/res/layout/activity_text_view.xml" value="0.18885869565217392" />
+        <entry key="chapter03/src/main/res/layout/activity_view_border.xml" value="0.24918279233186136" />
+        <entry key="chapter03/src/main/res/layout/activity_view_gravity.xml" value="0.35581578793733015" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

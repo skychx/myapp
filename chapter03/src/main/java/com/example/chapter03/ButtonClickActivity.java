@@ -17,10 +17,12 @@ public class ButtonClickActivity extends AppCompatActivity implements View.OnCli
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_button_click);
         tv_result = findViewById(R.id.tv_result); // 获取名叫tv_result的文本视图
+
         // 从布局文件中获取名叫btn_click_single的按钮控件
         Button btn_click_single = findViewById(R.id.btn_click_single);
         // 设置点击监听器，一旦用户点击按钮，就触发监听器的onClick方法
         btn_click_single.setOnClickListener(new MyOnClickListener());
+
         // 从布局文件中获取名叫btn_click_public的按钮控件
         Button btn_click_public = findViewById(R.id.btn_click_public);
         // 设置点击监听器，一旦用户点击按钮，就触发监听器的onClick方法
@@ -37,6 +39,7 @@ public class ButtonClickActivity extends AppCompatActivity implements View.OnCli
         }
     }
 
+    // 类似于事件委托，使用 id 派发相关事件
     @Override
     public void onClick(View v) { // 点击事件的处理方法
         if (v.getId() == R.id.btn_click_public) { // 来自于按钮btn_click_public

@@ -27,6 +27,8 @@
         android:textColor="@color/black"
         android:textSize="17sp" />
 
+    <!-- Android Button 的默认文字样式为全大写，
+    所以需要用 textAllCaps="false" 关闭默认效果-->
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -35,6 +37,7 @@
         android:textColor="@color/black"
         android:textSize="17sp" />
 
+    <!-- 【不推荐写法】这里直接用 onClick 绑定了 Java 中的 doClick 方法-->
     <Button
         android:id="@+id/btn_click_xml"
         android:layout_width="match_parent"

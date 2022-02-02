@@ -20,6 +20,7 @@ public class ButtonEnableActivity extends AppCompatActivity implements View.OnCl
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_button_enable);
         tv_result = findViewById(R.id.tv_result); // 获取名叫tv_result的文本视图
+
         // 因为按钮控件的setOnClickListener方法来源于View基类，所以也可对findViewById得到的视图直接设置点击监听器
         findViewById(R.id.btn_enable).setOnClickListener(this);
         findViewById(R.id.btn_disable).setOnClickListener(this);
